@@ -1,3 +1,10 @@
+package test;
+
+import main.AbstractFactory;
+import main.NonVeganFactory;
+import main.Pizza;
+import main.VeganFactory;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class PizzaTest {
